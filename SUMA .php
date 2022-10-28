@@ -5,4 +5,3 @@ $numero = $num1 + $num2;
 echo nl2br("La suma es: \n");
 echo "$numero";
 ?>
-
